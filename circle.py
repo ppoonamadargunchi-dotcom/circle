@@ -4,3 +4,4 @@ area = math.pi * radius * radius
 
 print("Area of the circle =", area)
 print("thank you")
+print("welcome")
